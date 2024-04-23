@@ -1,4 +1,4 @@
-_---
+---
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
@@ -17,7 +17,6 @@ In addition to his professional experience, Pedro holds the **Kubernetes and Clo
 Outside of work, Pedro is a dedicated learner, always eager to explore new technologies and expand his knowledge. His commitment to continuous improvement and his diverse skill set make him a valuable asset in any technology-driven organization.
 
 Through his blog, Pedro shares his insights, experiences, and expertise with the tech community, aiming to inspire and empower others on their journey in the ever-evolving world of IT.
-
 
 
 
