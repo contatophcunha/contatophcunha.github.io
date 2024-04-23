@@ -1,9 +1,8 @@
 ---
 title: "Hello World"
-date: 2024-04-23 00:00:00
-categories : [Hello World]
-tags : [Hello World]
-
+date: 2024-04-23 00:00:00 +0800
+categories: [Hello World]
+tags: [Hello World]
 ---
 
 # Hello world
