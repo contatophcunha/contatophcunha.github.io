@@ -2,11 +2,13 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+title: "ABOUT ME "
+date: 2024-04-23 00:00:00 +0800
 ---
 
 ## Dive more about me
 
-Meet Pedro Henrique de Oliveira Cunha, a skilled professional in the field of technology. Pedro holds a Bachelor's degree in Information Systems and currently works at Accenture (PORTUGAL), where he serves as a SysAdmin.
+Meet **Pedro Henrique de Oliveira Cunha**, a skilled professional in the field of technology. Pedro holds a Bachelor's degree in Information Systems and currently works at Accenture (PORTUGAL), where he serves as a SysAdmin.
 
 With a strong foundation in IT, Pedro has honed his expertise in various areas, including **Bash scripting, Linux administration, Python programming, Ansible automation, Docker containerization, Kubernetes orchestration, Terraform infrastructure as code, and Google Kubernetes Engine (GKE).**
 
