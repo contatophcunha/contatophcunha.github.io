@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2024-04-23 00:00:00
-categores : [Hello World]
+categories : [Hello World]
 tags : [Hello World]
 
 ---
