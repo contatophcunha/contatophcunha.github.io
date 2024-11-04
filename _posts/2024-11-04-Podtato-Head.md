@@ -1,8 +1,8 @@
 ---
-title: "FLASK APP"
+title: "Podtato-Head - A Real Lab"
 date: 2024-09-12 13:13:13 +351
 categories: [APPS]
-tags: [FLASK]
+tags: [LAB]
 ---
 # Preparando um Laboratório Prático de Kubernetes com Podtato-Head 🚀
 
